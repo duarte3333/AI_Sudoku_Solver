@@ -41,7 +41,7 @@ After that, it is possible to play just like in the level modes described earlie
 
 ## 🚀 About Us
 Duarte - "I'm a mechanical engineering student and I really enjoy programming..." <br />
-Martim - "I'm a computer engineering student and I enjoy to explore my programming skills with extra projects"
+Martim - "I'm a software engineering student and I enjoy to explore my programming skills with extra projects"
 
 ## Authors
 
