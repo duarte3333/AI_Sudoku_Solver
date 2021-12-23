@@ -40,7 +40,7 @@ With the pre-processed image, now the image will be ready to go to the neural ne
 After that, it is possible to play just like in the level modes described earlier, so after the user makes three mistakes the backtracking will solve the sudoku of the image that the user took photo in first place.
 
 ## 🚀 About Us
-Duarte - "I'm a mechanical engineering student and I really enjoy programming..." <\n>
+Duarte - "I'm a mechanical engineering student and I really enjoy programming..." <br />
 Martim - "I'm a computer engineering student and I enjoy to explore my programming skills with extra projects"
 
 ## Authors
