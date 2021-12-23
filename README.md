@@ -38,12 +38,15 @@ With the pre-processed image, now the image will be ready to go to the neural ne
 ![oi40](https://user-images.githubusercontent.com/76222459/147273016-aa737de8-13eb-4821-9f31-a575102c2824.png)
 
 After that, it is possible to play just like in the level modes described earlier, so after the user makes three mistakes the backtracking will solve the sudoku of the image that the user took photo in first place.
-## Installation
 
-Install my-project with npm
+## 🚀 About Us
+Duarte - "I'm a mechanical engineering student and I really enjoy programming..."
+Martim - "I'm a computer engineering student and I enjoy to explore my programming skills with extra projects"
 
-```bash
-  npm install my-project
-  cd my-project
-```
+## Authors
+
+- [@duarte3333](https://www.github.com/duarte3333)
+- [@MartimBaltazar](https://github.com/MartimBaltazar)
+
+
     
